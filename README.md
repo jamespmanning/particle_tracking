@@ -10,4 +10,4 @@ At the time of this writing, it has three different python files:
 2) pt_functions.py a set of functions including the Rungekutta steps
 3) dtr_jim.py the main program
 
-This is a reduced version of Vitalii's extensive code which was designed specifically by JiM during the Spring of 2022 to look at the potential transport of shock tubing plastic showing up on Cape Cod beaches. The results of that study are posted <a href='studentdrifters.org/projects/ludwig'> here.</a>
+This is a reduced version of Vitalii's extensive code which was designed specifically by JiM during the Spring of 2022 to look at the potential transport of shock tubing plastic showing up on Cape Cod beaches. The results of that study are posted <a href='http://studentdrifters.org/projects/ludwig'> here.</a>
